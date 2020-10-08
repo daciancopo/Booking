@@ -1,0 +1,33 @@
+.events__list-item {
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 1px solid rgb(138, 105, 75);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.events__list-item h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  color: rgb(211, 75, 12)
+}
+
+.events__list-item h2 {
+    margin: 0;
+    font-size: 1rem;
+    color: rgb(138, 105, 75);
+}
+
+.events__list-item img {
+    width: 1.7rem;
+    margin-left: 1rem;
+}
+
+.events__list-item .data {
+    font-size: 0.7rem;
+    margin-top: 0.9rem;
+    margin-bottom: -0.9rem;
+    margin-left: -0.8rem;
+    color: rgb(211, 75, 12);
+}
